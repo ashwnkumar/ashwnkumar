@@ -2,13 +2,13 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="300" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"  />
+<p align="left">I'm a budding Frontend/UI Developer with a Degree in Computer Engineering.</p>
 
 ###
 
-<p align="left">I'm a budding Frontend/UI Developer with a Degree in Computer Engineering.</p>
+<div align="left">
+  <img height="200" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"  />
+</div>
 
 ###
 
