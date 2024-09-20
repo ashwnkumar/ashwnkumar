@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="300" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"  />
 
 ###
