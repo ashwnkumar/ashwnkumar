@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I'm a budding Frontend/UI Developer with a Degree in Computer Engineering. </p>
-<p> I love creating visually pleasing Web Interfaces.</p>
+<p> I love translating UI Designs into Web Applicationss</p>
 
 ###
 
