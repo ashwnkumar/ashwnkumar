@@ -8,7 +8,7 @@ I love building fast, functional, and visually engaging web experiences—turnin
 ---
 
 <div align="left">
-  <img height="150" src="https://tenor.com/view/spider-man-into-the-spider-verse-computer-working-hard-back-to-work-clackity-clackity-gif-16138154.gif" />
+  <img height="300" src="https://tenor.com/view/spider-man-into-the-spider-verse-computer-working-hard-back-to-work-clackity-clackity-gif-16138154.gif" />
 </div>
 
 ---
