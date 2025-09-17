@@ -1,9 +1,11 @@
-<h1 align="left">👋🏽 Hi, I'm Ashwin</h1>
+<h1 align="left">👋🏽 Hey, I’m Ashwin</h1>
 
 <p align="left">
-I'm a passionate <strong>Web Developer</strong> and <strong>MERN Stack Developer</strong> with a BE in Computer Engineering.  
-I love building fast, functional, and visually engaging web experiences—turning ideas into interactive applications.
+I’m Ashwin Kumar — a MERN stack developer from Pune, India. I love creating web apps that are not just functional, but genuinely enjoyable to use. My sweet spot is frontend development, where I turn ideas and designs into seamless, interactive experiences. But I’m just as comfortable on the backend — building servers, APIs, and databases to make everything work smoothly behind the scenes.  
+When I’m not coding, you’ll find me lost in music, binge-watching good movies, gaming, or capturing the world through my camera. Anything creative instantly grabs my attention.
 </p>
+
+**Read More [Here](https://ashwinkumar-dev.vercel.app)**
 
 ---
 
@@ -13,46 +15,54 @@ I love building fast, functional, and visually engaging web experiences—turnin
 
 ---
 
-<h2 align="left">💡 About Me</h2>
+<h2 align="left">💡 What I Do</h2>
 
 <ul>
-  <li>💻 Creates sleek, user-friendly web interfaces</li>
-  <li>⚡ Writes clean, maintainable, reusable code</li>
-  <li>🛠 Skilled in both frontend and backend development</li>
-  <li>🍵 Needs coffee to code</li>
-  <li>🎧 Music is my coding fuel</li>
+  <li>💻 Craft clean, modern, user-friendly web apps</li>
+  <li>⚡ Write reusable, maintainable code</li>
+  <li>🛠 Comfortable across frontend and backend development</li>
+  <li>🍵 Need Coffee to Code</li>
+  <li>🎧 Music keeps me in flow</li>
   <li>🎮 Gamer at heart</li>
 </ul>
 
 ---
 
-<h2 align="left">🛠 Tech Stack</h2>
+<h2 align="left">🛠 Tech I Work With</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,github,vscode,figma,blender)](https://ashwinkumar-dev.web.app)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,github,vscode,figma,blender)](https://ashwinkumar-dev.vercel.app)
 
 ---
 
-<h2 align="left">🚀 Projects</h2>
+<h2 align="left">🚀 Featured Projects</h2>
 
 **[📸 Photography Portfolio Website](https://frames-by-ashwin.onrender.com)**  
-Minimalist, responsive photo portfolio with secure admin dashboard, JWT auth, Cloudinary storage, and mobile-first design.
+A minimalist, mobile-first photo portfolio with a secure admin dashboard (JWT auth), Cloudinary image storage, and a clean UI that puts the photos front and center.
 
-**[📂 IDBFiles – The Browser File Manager](https://idbfiles.web.app)**  
-Offline-capable, IndexedDB-powered file manager with upload, preview, and download features—all without a backend.
+**[📂 IDBFiles – Browser-Based File Manager](https://idbfiles.web.app)**  
+An offline-capable, IndexedDB-powered file manager. Upload, preview, and download files — no backend required.
 
----
-
-<h2 align="left">🎓 Education</h2>
-<ul>
-  <li>BE in Computer Engineering - Dhole Patil College of Engineering, 2024 (7.65 CGPA) </li>
-  <li>HSC - CMS English Medium Higher Secondary School, 2020 (85%) </li>
-  <li>SSC - Amrita Vidyalayam, 2018 (84%)  </li>
-</ul>
+**Find More of My Projects [Here](https://ashwinkumar-dev.vercel.app)**
 
 ---
 
-<h2 align="left">📬 Let's Connect!</h2>
-<p align="left">Reach out to me via any of the platforms below 🤟🏽</p>
+<h2 align="left">💼 Professional Experience</h2>
+
+**SDE (Trainee) – NDSoftTech Solutions** *(July 2025 – Present)*  
+- Built user-facing interfaces for ReactJS and React Native apps.  
+- Optimized codebases by introducing reusable components.  
+- Worked closely with backend data to deliver useful, transformed insights to the UI.  
+
+**ReactJS Developer (Intern) – Dreams International Infosoft** *(Nov 2024 – May 2025)*  
+- Contributed to full project lifecycles from initial coding to deployment.  
+- Created numerous reusable React components to speed up development.  
+- Redesigned UIs for multiple projects, improving performance and aesthetics.  
+- Collaborated with design and backend teams to turn concepts into polished web apps.  
+
+---
+
+<h2 align="left">📬 Let’s Connect</h2>
+<p align="left">Say hi on any of the platforms below 👇🏽</p>
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ashwin12kumar07@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashwin-kumar-221160240)
