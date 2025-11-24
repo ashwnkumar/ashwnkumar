@@ -1,8 +1,9 @@
 <h1 align="left">👋🏽 Hey, I’m Ashwin</h1>
 
 <p align="left">
-I’m Ashwin Kumar — a MERN stack developer from Pune, India. I love creating web apps that are not just functional, but genuinely enjoyable to use. My sweet spot is frontend development, where I turn ideas and designs into seamless, interactive experiences. But I’m just as comfortable on the backend — building servers, APIs, and databases to make everything work smoothly behind the scenes.  
-When I’m not coding, you’ll find me lost in music, binge-watching good movies, gaming, or capturing the world through my camera. Anything creative instantly grabs my attention.
+I’m Ashwin Kumar — a MERN stack developer from Pune, India. I love crafting web apps that feel smooth, intuitive, and enjoyable to use. My sweet spot is <strong>frontend development</strong>, where I turn ideas, wireframes, and concepts into real, interactive experiences.  
+But I’m equally comfortable working behind the scenes — building <strong>servers, APIs, and databases</strong> that make everything run seamlessly.  
+Outside of tech, I'm usually exploring music, gaming, binge-watching good movies, or capturing moments through my camera. Anything creative instantly sparks my interest.
 </p>
 
 **Read More [Here](https://ashwinkumar-dev.vercel.app)**
@@ -18,10 +19,10 @@ When I’m not coding, you’ll find me lost in music, binge-watching good movie
 <h2 align="left">💡 What I Do</h2>
 
 <ul>
-  <li>💻 Craft clean, modern, user-friendly web apps</li>
-  <li>⚡ Write reusable, maintainable code</li>
-  <li>🛠 Comfortable across frontend and backend development</li>
-  <li>🍵 Need Coffee to Code</li>
+  <li>💻 Build clean, modern, user-centered web apps</li>
+  <li>⚡ Write modular, reusable, and maintainable code</li>
+  <li>🛠 Work confidently across both frontend and backend</li>
+  <li>🍵 Coffee = Productivity</li>
   <li>🎧 Music keeps me in flow</li>
   <li>🎮 Gamer at heart</li>
 </ul>
@@ -30,34 +31,19 @@ When I’m not coding, you’ll find me lost in music, binge-watching good movie
 
 <h2 align="left">🛠 Tech I Work With</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,github,vscode,figma,blender)](https://ashwinkumar-dev.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,express,mongodb,supabase,postgresql,github,vscode,figma,blender)](https://ashwinkumar-dev.vercel.app)
 
 ---
 
 <h2 align="left">🚀 Featured Projects</h2>
 
 **[📸 Photography Portfolio Website](https://frames-by-ashwin.onrender.com)**  
-A minimalist, mobile-first photo portfolio with a secure admin dashboard (JWT auth), Cloudinary image storage, and a clean UI that puts the photos front and center.
+A minimalist, mobile-first photography portfolio with a secure JWT-protected admin dashboard, Cloudinary-based media storage, curated albums, and a clean UI that puts focus entirely on the visuals.
 
 **[📂 IDBFiles – Browser-Based File Manager](https://idbfiles.web.app)**  
-An offline-capable, IndexedDB-powered file manager. Upload, preview, and download files — no backend required.
+A full offline-capable file manager powered entirely by IndexedDB. Upload, preview, and download files without a backend. Built for speed, reliability, and everyday usability.
 
-**Find More of My Projects [Here](https://ashwinkumar-dev.vercel.app)**
-
----
-
-<h2 align="left">💼 Professional Experience</h2>
-
-**SDE (Trainee) – NDSoftTech Solutions** *(July 2025 – Present)*  
-- Built user-facing interfaces for ReactJS and React Native apps.  
-- Optimized codebases by introducing reusable components.  
-- Worked closely with backend data to deliver useful, transformed insights to the UI.  
-
-**ReactJS Developer (Intern) – Dreams International Infosoft** *(Nov 2024 – May 2025)*  
-- Contributed to full project lifecycles from initial coding to deployment.  
-- Created numerous reusable React components to speed up development.  
-- Redesigned UIs for multiple projects, improving performance and aesthetics.  
-- Collaborated with design and backend teams to turn concepts into polished web apps.  
+**Find More Projects [Here](https://ashwinkumar-dev.vercel.app)**
 
 ---
 
