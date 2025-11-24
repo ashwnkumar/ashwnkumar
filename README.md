@@ -1,7 +1,7 @@
 <h1 align="left">👋🏽 Hey, I’m Ashwin</h1>
 
 <p align="left">
-I’m Ashwin Kumar — a MERN stack developer from Pune, India. I love crafting web apps that feel smooth, intuitive, and enjoyable to use. My sweet spot is <strong>frontend development</strong>, where I turn ideas, wireframes, and concepts into real, interactive experiences.  
+I’m Ashwin Kumar - a MERN stack developer from Pune, India. I love crafting web apps that feel smooth, intuitive, and enjoyable to use. My sweet spot is <strong>frontend development</strong>, where I turn ideas, wireframes, and concepts into real, interactive experiences.  
 But I’m equally comfortable working behind the scenes — building <strong>servers, APIs, and databases</strong> that make everything run seamlessly.  
 Outside of tech, I'm usually exploring music, gaming, binge-watching good movies, or capturing moments through my camera. Anything creative instantly sparks my interest.
 </p>
