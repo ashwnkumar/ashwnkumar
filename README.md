@@ -43,7 +43,7 @@ A minimalist, mobile-first photography portfolio with a secure JWT-protected adm
 **[📂 IDBFiles – Browser-Based File Manager](https://idbfiles.web.app)**  
 A full offline-capable file manager powered entirely by IndexedDB. Upload, preview, and download files without a backend. Built for speed, reliability, and everyday usability.
 
-**Find More Projects [Here](https://ashwinkumar-dev.vercel.app)**
+**Find More Projects [Here](https://ashwinkumar-dev.vercel.app/projects)**
 
 ---
 
