@@ -31,7 +31,7 @@ Outside of tech, I'm usually exploring music, gaming, binge-watching good movies
 
 <h2 align="left">🛠 Tech I Work With</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,express,mongodb,supabase,postgresql,github,vscode,figma,blender)](https://ashwinkumar-dev.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,express,mongodb,supabase,github,vscode,figma,blender)](https://ashwinkumar-dev.vercel.app)
 
 ---
 
